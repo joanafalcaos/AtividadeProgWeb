@@ -7,3 +7,4 @@ function lerNumeros() {
     console.log("O segundo número é: " + numero2);
     console.log("O terceiro número é: " + numero3);
 }
+lerNumeros();

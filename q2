@@ -9,3 +9,4 @@ function calcularMedia() {
     
     console.log("A média dos números é: " + media);
 }
+calcularMedia();

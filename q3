@@ -1,3 +1,7 @@
 var numero1 = 10;
 var numero2 = 20;
 var numero3 = 30;
+
+console.log("Número 1: " + numero1);
+console.log("Número 2: " + numero2);
+console.log("Número 3: " + numero3);
